@@ -1,0 +1,2 @@
+# SQL-Programming-Getting-Started-With-Databases
+Structured Query Language (SQL) is the language that is used to store, manipulate and retrieve data from many databases. It is the standard language for many relational database management systems which are a type of databases used by organisations across the world. These type of relational database management systems are used to store data in tables and examples of such include SQLite, MySQL, Postgres, Oracle etc.
